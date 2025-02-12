@@ -1,0 +1,52 @@
+
+[
+    {
+      "id": 1,
+      "name": "Hydrating Face Cream",
+      "brand": "Neutrogena Hydro Boost",
+      "category": "Moisturizer",
+      "price": 19.99,
+      "image_url": "https://m.media-amazon.com/images/I/31TNSGTPE3L._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Vitamin C Serum",
+      "brand": "Lakme",
+      "category": "Serum",
+      "price": 25.50,
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR4zsUeh64nQpw977yJA6HUtb9cuNrwWz9OswDRph0GGDdlnGmaj1Jz34PP172T8hX5DBpqBT1xv1QVWv5ebB7uC-MNizqrGffBGYPK4ICdZP98caqIQNqm0J0"
+    },
+    {
+      "id": 3,
+      "name": "Matte Finish Foundation",
+      "brand": "BeautyBlend",
+      "category": "Foundation",
+      "price": 14.99,
+      "image_url": "https://m.media-amazon.com/images/I/51Ad48hy-tL._SY450_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Aloe Vera Face Wash",
+      "brand": "NatureCare",
+      "category": "Face Wash",
+      "price": 10.99,
+      "image_url": "https://m.media-amazon.com/images/I/516qtAbenQL._SY450_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pigmentation Face Serum",
+      "brand": "Minimalist",
+      "category": "serum",
+      "price": 10.99,
+      "image_url": "https://sfycdn.speedsize.com/56385b25-4e17-4a9a-9bec-c421c18686fb/beminimalist.co/cdn/shop/files/AlphaArNew.png?crop=center&height=1260&v=1721397838&width=840"
+    },
+    {
+      "id": 6,
+      "name": "De-tan Body Scrub",
+      "brand": "mCaffeine",
+      "category": "Body scrub",
+      "price": 10.99,
+      "image_url": "https://m.media-amazon.com/images/I/71fhNxsW5sL._SY450_.jpg"
+    }
+  ]
+
